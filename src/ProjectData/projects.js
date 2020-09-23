@@ -1,5 +1,5 @@
 import tournifyCmsLogo from './../Assets/ProjectIcons/tournify-cms.svg';
-import tournifyLogo from '../Assets/ProjectIcons/tournify.in.svg';
+import tournifyLogo from '../Assets/ProjectIcons/tournify.in.webp';
 
 export const ProjectsList = [{
     name: "Tournify.in",
