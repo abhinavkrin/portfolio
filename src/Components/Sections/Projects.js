@@ -11,7 +11,10 @@ function ProjectCard({icon,name,desc,link}){
     return (
         <Col xs={12} lg={4} className="p-2">
             <div className="w-100 h-100 p-2 text-center bg-white rounded border rounded shadow-sm d-flex flex-column">
-                <img src={icon} alt="name" className="project-icon"/>
+                <div>
+                    <img src={icon} alt="name" className="project-icon"/>
+                </div>
+
                 <div className="project-name">
                     <span>{name}</span>
                 </div>
