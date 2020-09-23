@@ -26,7 +26,7 @@ class Footer extends React.Component {
                         <Col xs={12} className="d-flex justify-content-center">
                             <img src={iconLight} alt="Abhinav Kumar" className="footer-icon"/>
                         </Col>
-                        <Col xs={12} lg={4} className="d-flex justify-content-center align-items-center">
+                        <Col xs={12} className="d-flex justify-content-center align-items-center">
                             <p className="start-project-text">Crafted by Abhinav Kumar with <span style={{color: "red"}}>♥</span></p>
                         </Col>
                     </Row>
