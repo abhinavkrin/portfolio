@@ -1,5 +1,6 @@
-import tournifyCmsLogo from './../Assets/ProjectIcons/tournify-cms.svg';
+import esportsWebLogo from './../Assets/ProjectIcons/logo.webp';
 import tournifyLogo from '../Assets/ProjectIcons/tournify.in.webp';
+import fireshortLogo from '../Assets/ProjectIcons/fireshort.webp';
 
 export const ProjectsList = [{
     name: "Tournify.in",
@@ -7,8 +8,13 @@ export const ProjectsList = [{
     link: 'https://tournify.in',
     icon: tournifyLogo
 },{
-    name: "Tournify CMS",
-    desc: 'A self hosted tournament management platform for individual eSports organisation. Made with React & Firebase.',
-    link: null,
-    icon: tournifyCmsLogo 
+    name: "eSportsWeb.in",
+    desc: 'A simple, easy to use, esports platform to provide web services to esports organisers. Made with React & Firebase.',
+    link: 'https://esportsweb.in',
+    icon: esportsWebLogo 
+},{
+    name: "FireShort (contributed)",
+    desc: "A URL Shortener made using React.JS and Google Firestore",
+    link: "https://github.com/abhinavkrin/FireShort",
+    icon: fireshortLogo
 }]

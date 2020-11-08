@@ -43,7 +43,7 @@ class Projects extends React.Component {
                 <Row>
                     <Col xs={12} className="text-center">
                         <span className="section-title text-dark-primary">
-                            My Projects
+                            My Projects & Contributions
                         </span>
                     </Col>
                 </Row>
