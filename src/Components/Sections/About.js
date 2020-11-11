@@ -21,13 +21,12 @@ class About extends React.Component {
                     </Col>
                     <Col xs={12} className="pb-0 m-0">
                         <div className="container bio">
-                            <p>Started coding since I was 14, Now I am a full stack web developer, blogger and a full-time tech enthusiast. I spend my whole day playing with javascripts, react, html and css; experimenting with tech; and gulping a great variety of useful+useless information in the planet internet.
+                            <p>Started coding since I was 14, Now I am a full stack web developer, blogger, and a full-time tech enthusiast. I spend my whole day playing with javascript, react, HTML, and CSS; experimenting with tech, and gulping a great variety of useful+useless information on the planet internet.
                             </p>
-                            <p>
-                            I make web applications that charm and solve problems. I’m always curious, and enjoy working in projects that challenge me to continuosly learn and evolve.
+                            <p>I make web applications that charm and solve problems. I’m always curious and enjoy working on projects that challenge me to continuously learn and evolve.
                             </p> 
                             <p>
-                            As of now, I am pursuing B.Tech. in Information Technolgy from Heritage Institute of Technology, Kolkata, India.
+                            As of now, I am pursuing B.Tech. in Information Technology from Heritage Institute of Technology, Kolkata, India.
                             </p>
                         </div>
                     </Col>
